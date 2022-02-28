@@ -1,0 +1,66 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title{
+    color: brown;
+    text-align: center;
+}
+.contactbtn{
+ padding: 10px;
+ border: none;
+ font-size: 15px;
+ color: rgb(252, 199, 208);
+ background-color: purple;
+ margin: 10px;
+ border-radius: 10px;
+ font-weight: bold;
+}
+.aboutbtn{
+    padding: 10px;
+    border: none;
+    font-size: 15px;
+    color: rgb(180, 218, 218);
+    background-color: blue;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+   }
+   .usersbtn{
+    padding: 10px;
+    border: none;
+    font-size: 15px;
+    color: rgb(255, 245, 105);
+    background-color: rgb(117, 47, 7);
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+   }.homebtn{
+    padding: 10px;
+    border: none;
+    font-size: 18px;
+    color:rgb(150, 40, 40) ;
+    background-color: pink;
+
+    border-radius: 10px;
+    font-weight: bold;
+    display: flex;
+    justify-content:space-between;
+    margin:10px auto;
+   }
+   .btndiv{
+       display: flex;
+       justify-content:space-between;
+       width: 600px;
+       margin: auto;
+   }.id{
+       text-decoration: none;
+       font-size: 25px;
+       color: teal;
+       cursor: pointer;
+       margin: 10px;
+   }.name{
+       font-size: 30px;
+       color: rgb(180, 5, 5);
+       text-align: center;
+       font-weight: bold;
+   }
